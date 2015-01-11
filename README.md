@@ -1,14 +1,5 @@
-# funclojure
+Clojure web app with Stencil templating.
 
-A Clojure library designed to ... well, that part is up to you.
+This app renders a page with a link to url you pass in.
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Visit: http://localhost:8080/?returnUrl=http://www.google.com
